@@ -1,0 +1,1 @@
+print("Scripter is loaded")
